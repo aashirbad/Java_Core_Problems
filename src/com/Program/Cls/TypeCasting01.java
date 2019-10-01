@@ -17,6 +17,8 @@ public class TypeCasting01 {
 		l = i;// auto casting
 		i = (int ) f; 
 		f = i;
+		
+		
 		d = i;
 		i = (int) d;
 		
